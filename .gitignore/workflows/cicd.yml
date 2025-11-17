@@ -1,7 +1,6 @@
 name: first gh-action file
 
 on: push
- 
 
 jobs:
   build:
